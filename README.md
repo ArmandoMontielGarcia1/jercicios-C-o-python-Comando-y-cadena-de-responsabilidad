@@ -179,3 +179,5 @@ namespace ConsoleApp1
         }
     }
 }
+
+![image](https://github.com/ArmandoMontielGarcia1/jercicios-C-o-python-Comando-y-cadena-de-responsabilidad/assets/144396511/2c5ed204-48f1-4139-b92d-33cb60be523c)
