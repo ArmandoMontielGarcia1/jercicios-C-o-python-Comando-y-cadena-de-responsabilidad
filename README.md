@@ -4,7 +4,7 @@
 Objetivo: Utilizar los patrones de diseño Comando y Cadena de Responsabilidad para desarrollar una aplicación móvil de edición de imágenes que permita aplicar filtros y ajustes de forma secuencial y controlada.
 # CODIGO DEL PROGRAMA
 
-using System;
+    using System;
 
     //Interface para los comandos
     public interface ICommand
@@ -173,5 +173,5 @@ using System;
             Console.ReadLine();
         }
     }
-}
+
 ![image](https://github.com/ArmandoMontielGarcia1/jercicios-C-o-python-Comando-y-cadena-de-responsabilidad/assets/144396511/2c5ed204-48f1-4139-b92d-33cb60be523c)
