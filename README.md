@@ -5,8 +5,8 @@ Objetivo: Utilizar los patrones de diseño Comando y Cadena de Responsabilidad p
 # CODIGO DEL PROGRAMA
 
 using System;
-namespace ConsoleApp1
-{
+
+    //Interface para los comandos
     public interface ICommand
     {
         void Execute();
