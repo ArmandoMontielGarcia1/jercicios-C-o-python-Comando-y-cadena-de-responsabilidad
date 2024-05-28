@@ -2,7 +2,8 @@
 # Nombre: Armando Montiel Garcia #20210602
 # Descripción de la Actividad
 Objetivo: Utilizar los patrones de diseño Comando y Cadena de Responsabilidad para desarrollar una aplicación móvil de edición de imágenes que permita aplicar filtros y ajustes de forma secuencial y controlada.
-# CODIGO:
+# CODIGO DEL PROGRAMA
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
